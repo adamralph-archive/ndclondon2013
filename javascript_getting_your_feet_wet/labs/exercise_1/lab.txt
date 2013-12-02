@@ -1,0 +1,2 @@
+The given code has some errors in it and produces incorrect result. Examine 
+the code and fix the errors in it so it produces the desired result.
