@@ -1,4 +1,20 @@
-???
+var PalindromeChecker = function() {
+  this.isWordSpecial = function(word) {
+    return this.__proto__.isWordSpecial(word) || word.split("").reverse().join("") === word;
+  }
+}
+PalindromeChecker.prototype.isWordSpecial = function() {
+  return false;
+}
+
+var AlphabeticalChecker = function() {
+  this.isWordSpecial = function(word) {
+    return this.__proto__.isWordSpecial(word) || word.split("").sort().join("") === word;
+  }
+}
+AlphabeticalChecker.prototype.isWordSpecial = function() {
+  return false;
+}
 
 var printIfWordIsSpecial = function(specialChecker, word) {
   console.log(word + " is " +
