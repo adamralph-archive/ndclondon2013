@@ -1,0 +1,2 @@
+A word is considered special for various reasons (one or more reasons
+may be added or removed). Write the code so that the result is as expected.
