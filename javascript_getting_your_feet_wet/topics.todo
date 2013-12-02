@@ -1,0 +1,93 @@
+JavaScript: Getting Your Feet Wet
+Venkat Subramaniam
+Email: venkats@agiledeveloper.com
+http://www.agiledeveloper.com download link
+Twitter: @venkat_s
+
+Access to code:
+Please use svn, git-svn, or just the browser to access   
+   https://www.agiledeveloper.com/svn/code/ndclondon2013
+   Userid: ndcuk2013
+   Password: prototype
+   
+If using git: you may need to do
+git config --system http.sslverify false
+
+Part I: Getting Started with JavaScript :
+- The power and perils of JavaScript
+- It's core strengths
+- It's main weaknesses
+- Hello world in JavaScript
+- Types
+  - number
+  - string
+  - variables
+  - undefined
+  - typeof
+  - examining types
+  - scope
+		- use strict option to look for errors
+		- also use jslint or jshint
+  - var
+  - function scope
+  - global scope
+  - blocks and scope
+  - == vs. ===
+  - semicolons
+  - Using jslint
+  - "use strict";
+
+Exercise 1:
+
+Part II: Creating Functions :
+- Ways to create functions
+- way to avoid function definition
+- a better way to define function
+- Passing parameters
+- arguments
+- this implicit context object
+- Ways to call functions
+- working with exceptions
+
+Exercise 2:
+
+Part III: Functional Style of Programming :
+- What's Functional Style?
+- Functional languages vs. functional style
+- Higher order functions
+- Lexical scoping
+- Example that fails DRY
+- Step 1 to solve DRY but not quite done
+- Creating higher order functions
+- currying
+- imperative vs. functional style - using filter, map, reduce
+
+Exercise 3:
+
+Part IV: Creating Classes :
+- Creating objects
+- Examining properties
+- Prototype
+- Changing prototype
+- hasOwnProperty
+- getting properties
+- setting properties
+- deleting properties
+- pass by reference
+- Object.prototype
+- Creating a class
+- adding functions
+- Instantiating instances and how prototypes play a role
+- Creating methods on classes and instances
+
+Exercise 4:
+
+Part V: Prototypal Inheritance :
+- How are methods and properties located?
+- Creating inheritance
+- Overriding methods
+
+Exercise 5:
+
+Conclusion: Summary :
+- Ways to create good JavaScript
