@@ -40,54 +40,54 @@ Part I: Getting Started with JavaScript :
 Exercise 1:
 
 Part II: Creating Functions :
-- Ways to create functions
-- way to avoid function definition
-- a better way to define function
-- Passing parameters
-- arguments
-- this implicit context object
-- Ways to call functions
-- working with exceptions
+✓ Ways to create functions
+✓ way to avoid function definition
+✓ a better way to define function
+✓ Passing parameters
+✓ arguments
+✓ this implicit context object
+✓ Ways to call functions
+✓ working with exceptions
 
 Exercise 2:
 
 Part III: Functional Style of Programming :
-- What's Functional Style?
-- Functional languages vs. functional style
-- Higher order functions
-- Lexical scoping
-- Example that fails DRY
-- Step 1 to solve DRY but not quite done
-- Creating higher order functions
-- currying
-- imperative vs. functional style - using filter, map, reduce
+✓ What's Functional Style?
+✓ Functional languages vs. functional style
+✓ Higher order functions
+✓ Lexical scoping
+✓ Example that fails DRY
+✓ Step 1 to solve DRY but not quite done
+✓ Creating higher order functions
+✓ currying
+✓ imperative vs. functional style - using filter, map, reduce
 
 Exercise 3:
 
 Part IV: Creating Classes :
-- Creating objects
-- Examining properties
-- Prototype
-- Changing prototype
-- hasOwnProperty
-- getting properties
-- setting properties
-- deleting properties
-- pass by reference
-- Object.prototype
-- Creating a class
-- adding functions
-- Instantiating instances and how prototypes play a role
-- Creating methods on classes and instances
+✓ Creating objects
+✓ Examining properties
+✓ Prototype
+✓ Changing prototype
+✓ hasOwnProperty
+✓ getting properties
+✓ setting properties
+✓ deleting properties
+✓ pass by reference
+✓ Object.prototype
+✓ Creating a class
+✓ adding functions
+✓ Instantiating instances and how prototypes play a role
+✓ Creating methods on classes and instances
 
 Exercise 4:
 
 Part V: Prototypal Inheritance :
-- How are methods and properties located?
-- Creating inheritance
-- Overriding methods
+✓ How are methods and properties located?
+✓ Creating inheritance
+✓ Overriding methods
 
 Exercise 5:
 
 Conclusion: Summary :
-- Ways to create good JavaScript
+✓ Ways to create good JavaScript
