@@ -1,0 +1,20 @@
+Given a bunch of names like
+
+'John', 'Jake', 'Bradley', 'Kim', 'Kate', 'Sam'
+
+Write a function that will iterate over the names and return a collection of
+names specified at the time of function call. Avoid duplication of code as
+much as possible.
+
+Exercise your code to get the following outputs:
+
+The function returns all names:
+[ 'John', 'Jake', 'Bradley', 'Kim', 'Kate', 'Sam' ]
+All names with four letters:
+[ 'John', 'Jake', 'Kate' ]
+All names with three letters:
+[ 'Kim', 'Sam' ]
+All names that start with 'K':
+[ 'Kim', 'Kate' ]
+All names that start with 'J':
+[ 'John', 'Jake' ]
