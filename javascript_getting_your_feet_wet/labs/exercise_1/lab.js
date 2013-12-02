@@ -1,4 +1,4 @@
-"option strict";
+"use strict";
 
 function canDrive(person, age) {
   var message = "";
